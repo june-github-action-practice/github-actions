@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn GitHub Action cicd <br />
+          Learn GitHub asdfasdfAction cicd <br />
           Let's go~~~
         </a>
       </header>
